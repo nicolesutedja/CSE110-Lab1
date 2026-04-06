@@ -29,9 +29,11 @@ git checkout
 
 
 ### To-do's for this Quarter
-- [ ] Attend a hackathon for the first time!
+- [x] Attend a hackathon for the first time!
 - [x] Finish CSE 110 Lab 1
 - [ ] Spend more time with friends & family
 
-## Where to find me!
+## Where to find me
 My email is nsutedja@ucsd.edu but you can also find me on [LinkedIn](https://www.linkedin.com/in/nicolesutedja/).
+
+Check out my [README](https://github.com/nicolesutedja/CSE110-Lab1?tab=readme-ov-file#cse110-lab1)!
