@@ -36,4 +36,4 @@ git checkout
 ## Where to find me
 My email is nsutedja@ucsd.edu but you can also find me on [LinkedIn](https://www.linkedin.com/in/nicolesutedja/).
 
-Check out my [README](https://github.com/nicolesutedja/CSE110-Lab1?tab=readme-ov-file#cse110-lab1)!
+Check out my [README](https://nicolesutedja.github.io/CSE110-Lab1/README.md)!
